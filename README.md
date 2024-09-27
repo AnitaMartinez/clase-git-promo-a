@@ -2,6 +2,10 @@
 
 Repositorio de la clase de git y github de la promo A.
 
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el...
+
+Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el...
+
 ## Description
 
 An in-depth paragraph about your project and overview of use.

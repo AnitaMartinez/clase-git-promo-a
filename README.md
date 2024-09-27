@@ -6,7 +6,7 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el...
 
-## Description
+## Descripcion
 
 An in-depth paragraph about your project and overview of use.
 

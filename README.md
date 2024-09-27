@@ -8,6 +8,8 @@ Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de te
 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el...
 
+Hola, soy Nuria 😊
+
 ## Descripcion
 
 An in-depth paragraph about your project and overview of use.
@@ -69,3 +71,4 @@ Inspiration, code snippets, etc.
 - [dbader](https://github.com/dbader/readme-template)
 - [zenorocha](https://gist.github.com/zenorocha/4526327)
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+

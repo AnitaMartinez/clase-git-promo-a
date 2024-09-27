@@ -1,4 +1,4 @@
-# Project Title
+# Clase de Git
 
 Simple overview of use/purpose.
 

@@ -2,9 +2,13 @@
 
 Repositorio de la clase de git y github de la promo A.
 
+Hola chicas, soy Belén, estamos haciendo pruebas para aprender a manejar Git y Github
+
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el...
 
 Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el...
+
+Hola, soy Nuria 😊
 
 ## Descripcion
 
@@ -67,3 +71,4 @@ Inspiration, code snippets, etc.
 - [dbader](https://github.com/dbader/readme-template)
 - [zenorocha](https://gist.github.com/zenorocha/4526327)
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+
